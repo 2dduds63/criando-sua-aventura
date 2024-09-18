@@ -9,3 +9,6 @@ const avanca = document.querySelectorAll('.btn-proximo');
             document.getElementById(proximoPasso).classList.add('ativo');
          })
     });
+
+
+Maria Eduarda Santana 2D 11/09/2024
